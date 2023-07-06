@@ -1,1 +1,1 @@
-# HelperX-Beta
+# HelperX
