@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HelperX</title>
+        <item>
+            <title>0711202301</title>
+            <pubDate>Tue, 11 Jul 2023 09:47:39 +0700</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>0711202301</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HelperXApp/HelperX/blob/main/Appcast/HelperX.dmg" length="8344794" type="application/octet-stream" sparkle:edSignature="aNdbp/KKApigrMKpSg2iX+GMNV8r+O9sBpjubjv6eCpYvaRS8TNCeFxCnb0qXE7+QJ+pPyFMfxB4yAa3iv8jBQ=="/>
+        </item>
+    </channel>
+</rss>
