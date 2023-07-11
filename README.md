@@ -41,7 +41,7 @@
 
 <p align="center">
     HelperX Team | 
-    <a href="mailto:nick@tableplus.com">update later</a>
+    <a href="">update later</a>
 </p>
 
 <p align="center">
