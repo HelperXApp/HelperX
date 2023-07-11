@@ -3,6 +3,14 @@
     <channel>
         <title>HelperX</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 11 Jul 2023 15:10:06 +0700</pubDate>
+            <sparkle:version>0711202303</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/HelperXApp/HelperX/main/Appcast/HelperX.dmg" length="8345463" type="application/octet-stream" sparkle:edSignature="LBsd9YxjaaRjwnquzRp/Uyyx9yMNkVO4OX1yrTp/dIOjVkAMwv4OAxRrFTmR3A2VQKyfdVdv2EoUzpbRQby2DQ=="/>
+        </item>
+        <item>
             <title>HelperX</title>
             <pubDate>Tue, 11 Jul 2023 09:47:39 +0700</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
