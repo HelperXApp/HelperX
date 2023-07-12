@@ -4,11 +4,19 @@
         <title>HelperX</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Wed, 12 Jul 2023 09:37:32 +0700</pubDate>
+            <sparkle:version>0712202301</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0712202301/HelperX.dmg" length="8343930" type="application/octet-stream" sparkle:edSignature="TbYI6Weq+P6UJiCZqnGEk+v66ynbq0pQJoeQG9T/2uL2f80HS5c3/CluCVRqtEgGxkujxVvsABkB1I3Ulur5Aw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Tue, 11 Jul 2023 15:10:06 +0700</pubDate>
             <sparkle:version>0711202303</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/HelperXApp/HelperX/main/Appcast/HelperX.dmg" length="8345463" type="application/octet-stream" sparkle:edSignature="LBsd9YxjaaRjwnquzRp/Uyyx9yMNkVO4OX1yrTp/dIOjVkAMwv4OAxRrFTmR3A2VQKyfdVdv2EoUzpbRQby2DQ=="/>
+            <enclosure url="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0711202303/HelperX.dmg" length="8345463" type="application/octet-stream" sparkle:edSignature="LBsd9YxjaaRjwnquzRp/Uyyx9yMNkVO4OX1yrTp/dIOjVkAMwv4OAxRrFTmR3A2VQKyfdVdv2EoUzpbRQby2DQ=="/>
         </item>
         <item>
             <title>HelperX</title>
