@@ -33,7 +33,7 @@
 * macOS 13.3+
 
 ## Download
-* Update later.
+* <a href="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0712202301/HelperX.dmg">HelperX Beta v1.0.0</a>
 
 ## Have a problem?
 
