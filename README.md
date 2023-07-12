@@ -30,7 +30,7 @@
 * Application uninstaller, Caches & Logs cleaner.
 * Video, image converter.
 * And Mores (WIP).
-* macOS 13.3+
+* MacOS 13.3+
 
 ## Download
 * <a href="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0712202301/HelperX.dmg">HelperX Beta v1.0.0</a>
@@ -39,19 +39,16 @@
 
 - Open a Github ticket
 
+## Contact
+* Please email to <a href="mailto:helperxapp@gmail.com">HelperX Mailbox</a>
+
 <p align="center">
     HelperX Team | 
     <a href="">update later</a>
 </p>
 
 <p align="center">
-    <!-- <a href="https://medium.com/@huyphams">
-        <img src="https://img.shields.io/badge/-Medium-03a87c?style=for-the-badge" alt="Medium">
-    </a> -->
-    <!-- <a href="https://facebook.com/tableplusapp">
-        <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge" alt="Facebook">
-    </a> -->
-    <a href="https://twitter.com/_StephenX_">
+    <a href="https://twitter.com/HelperXApp">
         <img src="https://img.shields.io/badge/-Twitter-00aced?style=for-the-badge" alt="Twitter">
     </a>
 </p>
