@@ -42,9 +42,17 @@
 ## Contact
 * Please email to <a href="mailto:helperxapp@gmail.com">HelperX Mailbox</a>
 
+## Support
+* You can follow my personal [Twitter](https://twitter.com/_StephenX_) to get the latest news of HelperX.
+* I have a full-time job as a Data Architect and develop the HelperX Software in my spare time.
+* I am also a Mac geek and like coffee very much, so I am very happy. If you love Native MacOS apps and like HelperX Software, you can buy me a coffee to boost my brain 😇.
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/StephenN)
+
 <p align="center">
     HelperX Team | 
-    <a href="">update later</a>
+    <a href="">Stephen</a>
 </p>
 
 <p align="center">
