@@ -29,6 +29,7 @@
 * ✅ Modern and intuitive UI.
 * Application uninstaller, Caches & Logs cleaner.
 * Video, image converter.
+* Screenshot.
 * And Mores (WIP).
 * MacOS 13.3+
 
