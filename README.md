@@ -22,6 +22,8 @@
 
 ![HelperX-Converter](https://github.com/HelperXApp/HelperX/blob/main/Resources/Converter.png "HelperX-Converter")
 
+![HelperX-Converter](https://github.com/HelperXApp/HelperX/blob/main/Resources/capturex-screenshot-demo.gif "HelperX-CaptureX")
+
 ## Features
 * 💻 Native macOS app. Written by Swift, Objective-C.
 * 🍎 Fully support Apple Chip (e.g M1, M2, M1 Pro/Max). 
@@ -34,7 +36,7 @@
 * MacOS 13.3+
 
 ## Download
-* <a href="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0712202301/HelperX.dmg">HelperX Beta v1.0.0</a>
+* <a href="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0819202301/HelperX.dmg">HelperX Beta v1.0.0</a>
 
 ## Have a problem?
 
@@ -44,8 +46,9 @@
 * Please email to <a href="mailto:helperxapp@gmail.com">HelperX Mailbox</a>
 
 ## Support
-* You can follow my personal [Twitter](https://twitter.com/_StephenX_) to get the latest news of HelperX.
-* I have a full-time job as a Data Architect and develop the HelperX Software in my spare time.
+* You can follow my [Personal Twitter](https://twitter.com/_StephenX_) to get the latest news of HelperX.
+* Official [HelperX Twitter](https://twitter.com/HelperXApp)
+* I have a full-time job as a Solution Architect and develop the HelperX Software in my spare time.
 * I am also a Mac geek and like coffee very much, so I am very happy. If you love Native MacOS apps and like HelperX Software, you can buy me a coffee to boost my brain 😇.
 
 
