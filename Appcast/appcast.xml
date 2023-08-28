@@ -4,6 +4,14 @@
         <title>HelperX</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Mon, 28 Aug 2023 15:59:16 +0700</pubDate>
+            <sparkle:version>0828202301</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0828202301/HelperX.dmg" length="8778430" type="application/octet-stream" sparkle:edSignature="KlkIFpFO4fxbon/+OyzyiSvNBGooUp9av/VgNqLr5dexPml/W8cBR2BstckWlS4N09X6SKayuR1HlX5lgBWjCQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sat, 26 Aug 2023 14:31:15 +0700</pubDate>
             <sparkle:version>0826202301</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
