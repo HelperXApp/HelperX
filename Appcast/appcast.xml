@@ -4,6 +4,14 @@
         <title>HelperX</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Wed, 30 Aug 2023 09:54:57 +0700</pubDate>
+            <sparkle:version>0830202301</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0830202301/HelperX.dmg" length="6473926" type="application/octet-stream" sparkle:edSignature="pHWVQ2ehQ1b+EQoDluALZDgTdNC2hP59ViWfndJ/6l3FtSPdykyUywDqnphJARpgFQYufuABHaKfy/muWIWTAQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Mon, 28 Aug 2023 15:59:16 +0700</pubDate>
             <sparkle:version>0828202301</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0826202301/HelperX.dmg" length="8778552" type="application/octet-stream" sparkle:edSignature="VbMZoAVDB/tMf8zyLGDtsuOMO9QXarjwOzuWwU6Do2wGoBjufpSruaDuiEn2FgQX+5LPFbx666IiX8NEbzL0Bw=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 19 Aug 2023 08:54:37 +0700</pubDate>
-            <sparkle:version>0819202301</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0819202301/HelperX.dmg" length="8454184" type="application/octet-stream" sparkle:edSignature="IdOln9PA32Ev5tL/Hpu7gMOu1hhLqvENbShPTeMpuSgA9ydNl3cZ6RDbTT0jaOaMFUYSm9YVkFAHxtEDXYVfBA=="/>
         </item>
         <item>
             <title>1.0.0</title>
