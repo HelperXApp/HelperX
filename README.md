@@ -35,6 +35,11 @@
 * And Mores (WIP).
 * MacOS 13.3+
 
+## Requirements
+* MacOS 13.0 (Minimum)
+* Fully support on Apple Chip.
+* Intel Chip is working in progress. Not support right now!
+
 ## Download
 * <a href="https://github.com/HelperXApp/HelperX/releases/download/v1.0.0-beta0830202301/HelperX.dmg">HelperX Beta v1.0.0</a>
 
