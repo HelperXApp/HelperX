@@ -51,6 +51,7 @@
 * Please email to <a href="mailto:helperxapp@gmail.com">HelperX Mailbox</a>
 
 ## Support
+* 🌟 Star HelperX on GitHub — it helps!
 * You can follow my [Personal Twitter](https://twitter.com/_StephenX_) to get the latest news of HelperX.
 * Official [HelperX Twitter](https://twitter.com/HelperXApp)
 * I have a full-time job as a Solution Architect and develop the HelperX Software in my spare time.
